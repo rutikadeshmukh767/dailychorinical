@@ -359,4 +359,5 @@ Everything lives in `client/src/styles/index.css`:
   larger scaling on very wide (≥1920 px) screens, `prefers-reduced-motion` support, and print styles.
 #   d a i l y c h o r i n i c a l  
  #   d a i l y c h o r i n i c a l  
+ #   d a i l y c h o r i n i c a l  
  
