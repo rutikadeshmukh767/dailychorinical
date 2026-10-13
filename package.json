@@ -1,0 +1,12 @@
+{
+  "name": "daily-chronicle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MERN newspaper app with a 1920s theme. Frontend → Vercel, backend → Render.",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build"
+  }
+}
