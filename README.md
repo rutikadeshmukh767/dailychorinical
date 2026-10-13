@@ -357,7 +357,4 @@ Everything lives in `client/src/styles/index.css`:
   (`column-width` + `column-rule`) for the front page and story text, CSS Grid for the
   main/sidebar split, a collapsible mobile section menu, card-style admin table on small screens,
   larger scaling on very wide (≥1920 px) screens, `prefers-reduced-motion` support, and print styles.
-#   d a i l y c h o r i n i c a l  
- #   d a i l y c h o r i n i c a l  
- #   d a i l y c h o r i n i c a l  
- 
+#
